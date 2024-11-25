@@ -1,5 +1,8 @@
 UI TESTING
 
+**Nota**:
+As evidências foram inicialmente incluídas como imagens nesta tabela. No entanto, devido às limitações do formato .md, as imagens não foram preservadas. Reconheço que, em projetos reais, incluir evidências visuais ou registros detalhados é fundamental para agilizar o processo de identificação e resolução de problemas. Essa prática contribui significativamente para a eficiência da equipe e a qualidade do projeto.
+
 **Tabela Consolidada de Bugs**
 
 | ID | Dados | Descrição do Bug | Passos para Reproduzir | Impacto |
